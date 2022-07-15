@@ -9,6 +9,9 @@ export default defineUserConfig({
   port: 11123,
 
   theme: defaultTheme({
-    navbar: [{ text: '开发笔记', link: '/develop-note' },{ text: '产品需求文档(PRD)', link: '/PRD' }],
+    navbar: [
+      { text: '产品需求文档（PRD）', link: '/prd' },
+      { text: '开发笔记', link: '/develop-note' },
+    ],
   }),
 })
