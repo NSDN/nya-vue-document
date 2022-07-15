@@ -2,7 +2,7 @@
 
 ## 说明
 
-- 这是 Nya Vue 的静态文档。文章使用 Markdown 格式书写。
+- 这是 Nya Vue 的静态文档。文章使用 [Markdown 格式](https://commonmark.org/help/)书写。
 - 使用 [VuePress2](https://v2.vuepress.vuejs.org/zh/) 实现。
 - 关于本文档的使用方法有任何疑问请联系[雪域冰龍](https://setsuikihyoryu.github.io/)。
 
